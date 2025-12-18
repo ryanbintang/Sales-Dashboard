@@ -32,7 +32,8 @@ https://www.kaggle.com/datasets/abhayayare/e-commerce-dataset
   
 ## 7. Dashboard
 - Excel : 
-<img width="692" height="421" alt="image" src="https://github.com/user-attachments/assets/bb276057-45bb-4d94-8de8-af734e3a1ae5" />
+<img width="697" height="423" alt="{D1548DFF-7A0E-42B5-B1FF-BE5331357EC4}" src="https://github.com/user-attachments/assets/e2b5cc6d-415b-4140-bb81-9f5021b5cb30" />
+
 
 - PowerBI :
 <img width="642" height="500" alt="image" src="https://github.com/user-attachments/assets/c64d8b7a-e744-417b-918b-371fae536c75" />
