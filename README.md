@@ -5,16 +5,13 @@ Sales performance dashboards (Excel &amp; Power BI)
 Project ini bertujuan untuk menganalisis performa penjualan berdasarkan kategori produk, Bulan, dan Tahun guna memperoleh insight yang dapat membantu pengambilan keputusan bisnis.
 
 ## 2. Objectives
-- Mengetahui total revenue, jumlah order, dan jumlah customer
-- Menganalisis performa penjualan berdasarkan kategori dan musim
-- Mengidentifikasi tren pembelian pelanggan
+- Mengetahui total revenue, jumlah completed order, jumlah status order, top 5 product, total unit sold, dan total order
+- Menganalisis performa penjualan berdasarkan kategori, Bulan, dan Tahun
+- Mengidentifikasi Produk Paling Laku
 - Menentukan kategori dengan kontribusi revenue tertinggi
 
 ## 3. Dataset
-- Data transaksi penjualan
-- Kolom: Order ID, Customer ID, Category, Purchase Amount (USD), Season, Payment Method, Order Status
-- Format data: CSV
-- Sumber data: Dataset simulasi
+https://www.kaggle.com/datasets/abhayayare/e-commerce-dataset
 
 ## 4. Tools & Technologies
 - Power BI
@@ -22,8 +19,8 @@ Project ini bertujuan untuk menganalisis performa penjualan berdasarkan kategori
 - Microsoft Excel
 
 ## 5. Data Cleaning & Preparation
-- Menghapus data duplikat
-- Menangani missing values
+- Menggabungkan tabel yang dibutuhkan menggunakan sql
+- Menangani missing values untuk rating
 - Menyesuaikan format data
 - Memfilter data dengan status order "Completed"
 
