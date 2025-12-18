@@ -34,9 +34,10 @@ Project ini bertujuan untuk menganalisis performa penjualan berdasarkan kategori
 - Perbandingan performa penjualan antar kategori dan metode pembayaran
 
 ## 7. Dashboard
-Excel : 
-<img width="710" height="428" alt="image" src="https://github.com/user-attachments/assets/ac0ea01c-b8c3-414d-9552-d9c5b094e357" />
-PowerBI :
+- Excel : 
+<img width="692" height="421" alt="image" src="https://github.com/user-attachments/assets/bb276057-45bb-4d94-8de8-af734e3a1ae5" />
+
+- PowerBI :
 <img width="647" height="510" alt="image" src="https://github.com/user-attachments/assets/68f276f2-3256-4a85-bc33-b04b702cdab7" />
 
 
