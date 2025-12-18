@@ -26,8 +26,8 @@ https://www.kaggle.com/datasets/abhayayare/e-commerce-dataset
 
 ## 6. Analysis & Methodology
 - Agregasi revenue menggunakan fungsi SUM
-- Perhitungan jumlah customer unik
-- Analisis tren musiman
+- Perhitungan jumlah produk yang paling laku
+- Analisis tren tahunan
 - Perbandingan performa penjualan antar kategori dan metode pembayaran
 
 ## 7. Dashboard
@@ -39,9 +39,9 @@ https://www.kaggle.com/datasets/abhayayare/e-commerce-dataset
 
 
 ## 8. Key Insights
-- Kategori tertentu memberikan kontribusi revenue tertinggi
-- Terjadi peningkatan penjualan pada musim tertentu
-- Metode pembayaran tertentu paling dominan digunakan pelanggan
+- Kategori electronics memberikan kontribusi revenue tertinggi
+- Terjadi penurunan penjualan pada tahun 2024 hingga 2025
+- Produk paling laku
 
 ## 9. Conclusion
 Hasil analisis menunjukkan bahwa fokus pada kategori dengan performa terbaik serta strategi promosi musiman dapat meningkatkan revenue perusahaan.
