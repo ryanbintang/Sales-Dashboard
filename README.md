@@ -28,7 +28,6 @@ https://www.kaggle.com/datasets/abhayayare/e-commerce-dataset
 ## 6. Analysis & Methodology
 - Agregasi revenue menggunakan fungsi SUM
 - Perhitungan jumlah produk yang paling laku
-- Analisis tren tahunan
 - Perbandingan performa penjualan antar kategori
   
 ## 7. Dashboard
