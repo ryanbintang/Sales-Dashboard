@@ -50,4 +50,4 @@ Hasil analisis menunjukkan bahwa kita harus fokus pada kategori groceries dengan
 ## 10. Author
 - Nama: Ryan Bintang Ramadhan
 - GitHub: https://github.com/ryanbintang
-- LinkedIn: https://linkedin.com/in/username
+- LinkedIn: https://www.linkedin.com/in/ryan-bintang-ramadhan?trk=contact-info
