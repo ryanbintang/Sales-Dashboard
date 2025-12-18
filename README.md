@@ -35,11 +35,11 @@ https://www.kaggle.com/datasets/abhayayare/e-commerce-dataset
 <img width="692" height="421" alt="image" src="https://github.com/user-attachments/assets/bb276057-45bb-4d94-8de8-af734e3a1ae5" />
 
 - PowerBI :
-<img width="647" height="510" alt="image" src="https://github.com/user-attachments/assets/68f276f2-3256-4a85-bc33-b04b702cdab7" />
-
+<img width="650" height="511" alt="image" src="https://github.com/user-attachments/assets/ba85f8d9-6796-4793-9ea8-4186ecb2e028" />
 
 ## 8. Key Insights
 - Kategori electronics memberikan kontribusi revenue tertinggi
+- Kategori groceries memberikan kontribusi revenue paling sedikit
 - Terjadi penurunan penjualan pada tahun 2024 hingga 2025
 - Produk paling laku
 
@@ -51,13 +51,7 @@ Hasil analisis menunjukkan bahwa fokus pada kategori dengan performa terbaik ser
 - Integrasi data time-series untuk forecasting
 - Pengembangan dashboard interaktif berbasis web
 
-## 11. Project Structure
-- `/dataset` : Berisi data mentah dan data bersih
-- `/sql` : Query SQL untuk pengolahan data
-- `/powerbi` : File dashboard Power BI
-- `/docs` : Dokumentasi pendukung
-
 ## 12. Author
 - Nama: Ryan Bintang Ramadhan
-- GitHub: https://github.com/username
+- GitHub: https://github.com/ryanbintang
 - LinkedIn: https://linkedin.com/in/username
